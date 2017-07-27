@@ -1,0 +1,9 @@
+# Site settings
+title: HAWQ
+description: > # this means to ignore newlines until "baseurl:"
+    everything about HAWQ
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hawq-cn.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
