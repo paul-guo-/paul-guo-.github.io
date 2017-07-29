@@ -1,6 +1,6 @@
 # Site settings
-title:
-description: > # this means to ignore newlines until "baseurl:"
+title: All about infrastructure software and system programming
+description: All about infrastructure software and system programming
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://paul-guo-.github.io" # the base hostname & protocol for your site
 
